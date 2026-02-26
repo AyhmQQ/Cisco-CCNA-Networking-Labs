@@ -5,6 +5,9 @@ This lab focuses on building a basic multi-branch enterprise network topology in
 
 The objective was to understand network layout, device placement, and logical structure of branch-based enterprise networks.
 
+## Topology Diagram
+![Network Topology](topology.png)
+
 ## Objectives
 - Place routers, switches, and end devices
 - Design a multi-branch topology
