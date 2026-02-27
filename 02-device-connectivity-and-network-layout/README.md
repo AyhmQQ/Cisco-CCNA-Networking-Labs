@@ -5,6 +5,9 @@ This lab focuses on connecting networking devices and building a structured mult
 
 The objective is to understand proper physical connections between routers, switches, and end devices, and to design a scalable network layout.
 
+## Topology Diagram
+![Network Topology](topology.png)
+
 ## Objectives
 - Connect multiple routers using appropriate interfaces
 - Connect switches to routers and end devices
